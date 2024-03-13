@@ -1,0 +1,22 @@
+﻿<Window x:Class="Rgr_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rgr_1"
+        mc:Ignorable="d"
+        Title="Табулирование функции" Height="450" Width="800" WindowStyle="SingleBorderWindow">
+    <Grid x:Name="MainRoot" Background="Azure">
+        <TextBlock HorizontalAlignment="Left" Margin="132,66,0,0" TextWrapping="Wrap" Text="x1 =" VerticalAlignment="Top"/>
+        <TextBox x:Name="Box_x1" HorizontalAlignment="Left" Margin="160,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="132,100,0,0" TextWrapping="Wrap" Text="x2 =" VerticalAlignment="Top" RenderTransformOrigin="0.937,0.754"/>
+        <TextBlock HorizontalAlignment="Left" Margin="136,135,0,0" TextWrapping="Wrap" Text="A =" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="134,168,0,0" TextWrapping="Wrap" Text="M =" VerticalAlignment="Top" RenderTransformOrigin="0.135,0.629"/>
+        <TextBox x:Name="Box_x2" HorizontalAlignment="Left" Margin="160,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Box_A" HorizontalAlignment="Left" Margin="160,134,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Box_M" HorizontalAlignment="Left" Margin="160,167,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Решение" HorizontalAlignment="Left" Margin="420,217,0,0" VerticalAlignment="Top" Height="57" Click="Button_Click" Width="104"/>
+        <TextBox x:Name="Answer" HorizontalAlignment="Left" Margin="385,49,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="173" Height="153"/>
+
+    </Grid>
+</Window>

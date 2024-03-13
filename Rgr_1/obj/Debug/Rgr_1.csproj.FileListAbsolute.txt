@@ -1,0 +1,14 @@
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\bin\Debug\Rgr_1.exe
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\bin\Debug\Rgr_1.pdb
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1.csproj.AssemblyReference.cache
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\MainWindow.g.cs
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\App.g.cs
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1_MarkupCompile.cache
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1_MarkupCompile.lref
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\MainWindow.baml
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1.g.resources
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1.Properties.Resources.resources
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1.csproj.GenerateResource.cache
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1.csproj.CoreCompileInputs.cache
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1.exe
+C:\Users\pcuser.DESKTOP-TO8VCJL\Desktop\RGR\Rgr_1\obj\Debug\Rgr_1.pdb
